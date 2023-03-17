@@ -1,4 +1,4 @@
-# Wav2Lip-HQ-updated-ESRGAN: high quality lip-sync
+# Wav2Lip-HQ-ESRGAN: high quality lip-sync
 
 ## Installation
 In addition to installing dependencies and downloading the necessary weights from the base model -- sans the 'esrgan_yunying.pth' weights -- download a desired ESRGAN checkpoint, place it in the 'weights' folder, and enter it as the sr_path argument. The repository and input argument default is [BigFace_v3](https://1drv.ms/u/s!Aip-EMByJHY27CHg3-1Uue5KgbtK?e=6k0COU).
