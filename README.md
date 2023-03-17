@@ -14,10 +14,6 @@ Most functionality is derivative, but '--enhance_face' is a novel inclusion argu
 •Python 3.7+ is recommended. Issues have been noted on Python 3.6 when installing dependencies.
 
 
-# Base Repo README:
-
-## :exclamation::exclamation: This repository is deprecated, and no one maintains it at this moment. A lot has changed in the field since it was created, and many new instruments have emerged. Please, do not try to use this repository for your practical purposes. :exclamation::exclamation:
-
 ---
 
 This is unofficial extension of [Wav2Lip: Accurately Lip-syncing Videos In The Wild](https://github.com/Rudrabha/Wav2Lip) repository. We use image super resolution and face segmentation for improving visual quality of lip-synced videos.
